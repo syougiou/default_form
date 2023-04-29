@@ -1,0 +1,11 @@
+C:\Users\tomoy\Source\Repos\open-another-form\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tomoy\Source\Repos\open-another-form\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tomoy\Source\Repos\open-another-form\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tomoy\Source\Repos\open-another-form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tomoy\Source\Repos\open-another-form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tomoy\Source\Repos\open-another-form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tomoy\Source\Repos\open-another-form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tomoy\Source\Repos\open-another-form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tomoy\Source\Repos\open-another-form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tomoy\Source\Repos\open-another-form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\tomoy\Source\Repos\open-another-form\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutForm.resources
